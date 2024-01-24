@@ -1,2 +1,2 @@
 # Increase-Salary-of-Employees
-This PLSQL Package automatically Increase the salaries of emloyees' whose salary is smaller than average salary
+This PLSQL Package automatically increases the salaries of emloyees' whose salary is smaller than average salary.
